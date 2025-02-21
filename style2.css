@@ -1,0 +1,79 @@
+.body {
+  background: skyblue;
+  
+  -webkit-background-clip: color;
+  background-clip: color;
+  color: transparnt;
+}
+
+Header{
+position: sticky;  
+  
+}
+
+.discr{
+  padding-top: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: solid black;
+}
+
+Abt{
+  background: deepskyblue;
+  padding: 10px;
+  margin: 10px;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+  background: cadetblue;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+}
+
+btn3{
+  background: lightblue;
+  color: skyblue;
+}
+
+.icon-container{
+  border: solid black;
+  margin: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: justify;
+}
+
+.img-icon1{
+  width: 50%;
+  height: 50%;
+  background: rd;
+}
+
+.img-icon2{
+  width: 50%;
+  height: 50%;
+  background: reen;
+}
+
+.img-icon3{
+  width: 50%;
+  height: 50%;
+  background: yelow;
+}
+
+.img-icon4{
+  width: 50%;
+  height: 50%;
+  background: fchsia;
+}
+
+.icon-container img{
+  width: 80px;
+  height: auto;
+  display: block;
+}
